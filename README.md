@@ -3,7 +3,6 @@
 *This is the final project for the  machine learning course.*
 ## Problem: How much energy will a building consume?
 
-Data: https://www.kaggle.com/c/ashrae-energy-prediction/data
 In this project, I implemented the following:
 - EDA
 - Data cleansing(Filling nulls & Handling outliers)
@@ -13,3 +12,5 @@ In this project, I implemented the following:
 - Trained  the data using decision trees, neural networks, and linear regression.
 - Used Cross Validation
 - Developed a standalone Colab notebook that gets the saved model and makes prediction on new data
+
+Data: https://www.kaggle.com/c/ashrae-energy-prediction/data
