@@ -7,7 +7,7 @@ Data: https://www.kaggle.com/c/ashrae-energy-prediction/data
 Required:
 - Full EDA
 - Features Engineering
-- Data pipeline: Use all variables types
+- Data pipeline: Use all variables types(numbers, text)
 - Evaluate at least 3 models
 - Use CV
 - Tune the model(s) hyperparameters with GridSearchCV, RandomSearchCV
